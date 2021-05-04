@@ -6,5 +6,5 @@
 
 ### 📈 Github Stats
  
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=wh2per&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=eggman9298&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 <br>  
